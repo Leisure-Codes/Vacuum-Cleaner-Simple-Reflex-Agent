@@ -1,36 +1,3 @@
-'''
-VacWorld.py
-
-This is code to get you started.
-You need to write code for 3 functions:
-
-    def getAction(state):
-        given the current state, return either:
-          'SUCK', 'MOVELEFT' or 'MOVERIGHT'
-     - in R with dirt -> SUCK
-     - in L with dirt -> SUCK
-     - in R no dirt   -> MOVELEFT
-     - in L no dirt   -> MOVERIGHT
-
-    def updateState(state, action)
-        return the next state given current state and action
-            action:SUCK vacRoom:R -> ['R', [.., 0]]
-            action:SUCK vacRoom:L -> ['L', [0, ..]]
-            action:MOVELEFT  vacRoom:R -> ['L', .. ]
-            action:MOVERIGHT vacRoom:L -> ['R', .. ]
-            other state action pairs: -> no change to state
-            note: in above, ... means no change
-
-    def bool_all_rooms_clean(state):
-        #returns True or False  if all room are clean or not
-
-'''
-
-# add your name and ID here    --------------
-Name = "Aniket_Dhirajkumar_Bharthi"
-ID = 49044560
-
-
 def getAction(state):
     Curr_State=state
 
