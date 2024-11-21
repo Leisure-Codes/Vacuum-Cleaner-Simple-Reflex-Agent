@@ -86,6 +86,6 @@ The program will display step-by-step actions of the vacuum cleaner, followed by
 
 .
 ├── vacuum_cleaner.py   # Main Python script
-└── README.md           # Project documentation
+|── README.md           # Project documentation
 .
 
