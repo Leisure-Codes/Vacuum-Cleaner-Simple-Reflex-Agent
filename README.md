@@ -84,9 +84,9 @@ state=['R', [0, 0]] All rooms clean!
 ## Expected Output
 The program will display step-by-step actions of the vacuum cleaner, followed by the state changes. Once both rooms are clean, it will print All rooms clean!.
 
-.
+```
 ├── vacuum_cleaner.py   # Main Python script
 
 |── README.md           # Project documentation
-.
+```
 
