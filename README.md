@@ -81,7 +81,7 @@ state=['R', [0, 0]] All rooms clean!
    - Starting in room `R`.
    -  Starting in room `L`.
 
-##Expected Output
+## Expected Output
 The program will display step-by-step actions of the vacuum cleaner, followed by the state changes. Once both rooms are clean, it will print All rooms clean!.
 
 .
