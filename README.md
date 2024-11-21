@@ -69,7 +69,7 @@ state=['R', [0, 0]] All rooms clean!
 ### Steps:
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/vacuum-cleaner-simulation.git
+   git clone https://github.com/Leisure-Codes/Vacuum-Cleaner-Simple-Reflex-Agent.git
    cd vacuum-cleaner-simulation
    ```
 2. Run the script:
